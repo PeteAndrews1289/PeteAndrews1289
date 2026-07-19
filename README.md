@@ -14,15 +14,19 @@ A production SwiftUI application for nutrition, training, recovery, and evidence
 
 ### [AWS DevSecOps Pipeline](https://github.com/PeteAndrews1289/aws-devsecops-pipeline)
 
-A controlled security lab connecting GitHub Actions and Trivy container scanning with Terraform, EKS, Kubernetes, exploit simulation, and Splunk runtime telemetry.
+A deliberately split supply-chain security case study. It preserves an isolated vulnerable Flask target for teaching evidence while a separate remediated application is protected by tests, Bandit, repository policy checks, and blocking HIGH/CRITICAL Trivy gates. The supporting Terraform and Kubernetes examples use hardened defaults and disclose their decommissioned, reference-only status.
 
 ### [Honeypot SIEM Case Study](https://github.com/PeteAndrews1289/honeypot-siem-project)
 
 A completed and decommissioned Cowrie and Conpot study used to analyze real SSH, Telnet, and ICS/SCADA activity in Splunk. Its public evidence package withholds raw identifiers, credentials, commands, and payloads while preserving auditable aggregate results.
 
+### [Detection Engineering Lab](https://github.com/PeteAndrews1289/detection-engineering-lab)
+
+A detection-as-code portfolio with versioned AWS IAM, AWS root, PowerShell, and LSASS hypotheses; synthetic malicious and benign fixtures; a dependency-free matcher; regression tests; and analyst triage playbooks. The checked-in results report four expected fixture matches with no fixture false positives or false negatives, without presenting synthetic validation as production efficacy.
+
 ### [AWS Automated SOAR Playbook](https://github.com/PeteAndrews1289/aws-automated-soar-playbook)
 
-A serverless prototype for alert intake, DynamoDB incident state, optional LLM-assisted summaries, Slack-based human approval, and attempted IAM containment using AWS Lambda and Terraform.
+A serverless response case study with authenticated webhooks, replay resistance, explicit incident states, human approval, scoped IAM roles, and containment verification. Sixteen tests cover success and failure paths; the original IAM `AccessDenied` outcome remains documented as negative evidence instead of being rewritten as a successful containment claim.
 
 ## Research
 
