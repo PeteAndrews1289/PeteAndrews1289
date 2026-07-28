@@ -30,7 +30,7 @@ A serverless response case study with authenticated webhooks, replay resistance,
 
 ## Autonomous Systems & Reliability
 
-These paired projects show how I move from controlled experimentation to product engineering: preserve negative evidence, identify the reliability boundary, and encode that lesson into deterministic, observable software.
+These projects show how I move from controlled experimentation to product engineering: preserve negative evidence, identify the reliability boundary, and encode that lesson into deterministic, observable software.
 
 ### [Dungeon Apprentice — Cumulative-Learning Research](https://github.com/PeteAndrews1289/dungeon-apprentice)
 
@@ -40,13 +40,13 @@ A completed recurrent-PPO study with procedural solvability checks, disjoint eva
 
 A completed systems-rich vertical slice where players compose party playbooks, seal orders, observe autonomous expeditions, and audit evidence-grounded outcomes. The deterministic simulation remains independent of rendering, playback speed, and UI state.
 
+### [Pokémon Red AI — Experiential-Learning Research](https://github.com/PeteAndrews1289/pokemon-red-ai)
+
+A completed study of whether one randomly initialized recurrent visual policy could turn self-generated experience into cumulative game skills. V12 processed 8.24 million actions across four emulators and replay-verified seven milestones through Route 1, yet frozen evaluation ended at 55/502 with zero retained competent skills and no composition—evidence that discovery and training activity are not the same as durable competence.
+
 ## Research
 
 Co-author, **“A Security and Privacy Assessment of Mobile Ride-Sharing Applications,”** IEEE SoutheastCon 2026. [DOI: 10.1109/SoutheastCon63549.2026.11476248](https://doi.org/10.1109/SoutheastCon63549.2026.11476248)
-
-## Currently Building
-
-[Pokémon Red AI](https://github.com/PeteAndrews1289/pokemon-red-ai) is a reproducible Python and PyBoy harness for controlled game-agent experiments, with ROM validation, automated tests, and private-artifact safeguards.
 
 ## Credentials
 
