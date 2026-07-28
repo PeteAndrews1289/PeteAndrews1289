@@ -28,6 +28,18 @@ A detection-as-code portfolio with versioned AWS IAM, AWS root, PowerShell, and 
 
 A serverless response case study with authenticated webhooks, replay resistance, explicit incident states, human approval, scoped IAM roles, and containment verification. Sixteen tests cover success and failure paths; the original IAM `AccessDenied` outcome remains documented as negative evidence instead of being rewritten as a successful containment claim.
 
+## Autonomous Systems & Reliability
+
+These paired projects show how I move from controlled experimentation to product engineering: preserve negative evidence, identify the reliability boundary, and encode that lesson into deterministic, observable software.
+
+### [Dungeon Apprentice — Cumulative-Learning Research](https://github.com/PeteAndrews1289/dungeon-apprentice)
+
+A completed recurrent-PPO study with procedural solvability checks, disjoint evaluation suites, checkpoint integrity, and preregistered promotion gates. Strong average capability did not eliminate rare catastrophic interaction loops, so the study closed without promoting an unreliable architecture.
+
+### [Dungeon Apprentice — Deterministic Godot Prototype](https://github.com/PeteAndrews1289/dungeon-apprentice-game)
+
+A completed systems-rich vertical slice where players compose party playbooks, seal orders, observe autonomous expeditions, and audit evidence-grounded outcomes. The deterministic simulation remains independent of rendering, playback speed, and UI state.
+
 ## Research
 
 Co-author, **“A Security and Privacy Assessment of Mobile Ride-Sharing Applications,”** IEEE SoutheastCon 2026. [DOI: 10.1109/SoutheastCon63549.2026.11476248](https://doi.org/10.1109/SoutheastCon63549.2026.11476248)
