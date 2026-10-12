@@ -1,16 +1,20 @@
 # Peter Andrews Jr.
 
-### Cloud security and detection engineering · AWS · Splunk · Python · Terraform
+### Cloud security and detection engineering · Mobile application security · AWS · Swift · Python
 
 I build security projects across the defensive loop: collecting cloud and workload telemetry, turning it into analyst-ready detections, and prototyping human-approved response automation. My software background includes leading development of **MyFitPlate**, a native iPhone and Apple Watch app shipped on the App Store, and my research includes a peer-reviewed IEEE paper on mobile application security and privacy.
 
-I am pursuing cloud security, detection engineering, security automation, DevSecOps, and SOC opportunities.
+I am pursuing application security, mobile security, cloud security, detection engineering, security automation, DevSecOps, and SOC opportunities.
 
 ## Selected Work
 
 ### [MyFitPlate](https://github.com/PeteAndrews1289/MyFitPlate)
 
 A production SwiftUI application for nutrition, training, recovery, and evidence-aware coaching. The public repository documents its iPhone and Apple Watch architecture, Firebase and Cloud Functions backend, privacy and security controls, migrations, and automated test suites. [View it on the App Store](https://apps.apple.com/us/app/myfitplate-macro-tracker/id6740922831).
+
+### [Mobile Audit](https://github.com/PeteAndrews1289/mobile-audit)
+
+An open-source iOS-first security research toolkit extending my IEEE mobile-app study into a SwiftUI iPhone app and Python scanner. It combines app privacy activity, supplied package and source evidence, guided checks, and version comparisons into evidence-linked reports and conditional attack-path tests. The prototype has 53 passing Python tests and 9 passing Swift core tests; physical-iPhone workflow validation is still in progress.
 
 ### [AWS DevSecOps Pipeline](https://github.com/PeteAndrews1289/aws-devsecops-pipeline)
 
@@ -59,4 +63,4 @@ CompTIA Security+ · Splunk Core Certified Power User · AWS Certified Cloud Pra
 - Keep risky actions human-approved and record failure honestly.
 - Destroy temporary cloud and honeypot infrastructure after evidence collection.
 
-> All security projects shown here are controlled educational labs. Completed cloud and honeypot infrastructure was dismantled after evidence collection.
+> The work shown here includes production software, research prototypes, and controlled security labs. Completed cloud and honeypot infrastructure was dismantled after evidence collection.
